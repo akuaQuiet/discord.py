@@ -2,7 +2,7 @@
 import discord
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NjIzMTQ4ODM5MTA4NjA4MDI4.XZu2Lg.vXkWd0o6x3WuqpD7ROwczS8SiXc'
+TOKEN = 'NjIzMTQ4ODM5MTA4NjA4MDI4.XZu36w.NBwGX2d938DTLZkHMKBFzWBsOeY'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
